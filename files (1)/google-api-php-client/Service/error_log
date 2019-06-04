@@ -1,0 +1,2 @@
+[26-May-2019 09:48:16 UTC] PHP Fatal error:  Class 'Google_Exception' not found in /home/iscoralil/public_html/google-api-php-client/Service/Exception.php on line 19
+[26-May-2019 19:09:37 UTC] PHP Fatal error:  Class 'Google_Exception' not found in /home/iscoralil/public_html/google-api-php-client/Service/Exception.php on line 19

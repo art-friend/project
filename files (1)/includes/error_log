@@ -1,0 +1,725 @@
+[30-Apr-2019 11:42:08 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/iscoralil/public_html/includes/login.php on line 79
+[30-Apr-2019 11:42:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/iscoralil/public_html/includes/login.php on line 29
+[30-Apr-2019 11:42:25 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/iscoralil/public_html/includes/login.php on line 32
+[30-Apr-2019 11:47:09 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/iscoralil/public_html/includes/login.php on line 27
+[30-Apr-2019 11:47:09 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/iscoralil/public_html/includes/login.php on line 30
+[30-Apr-2019 11:47:12 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/iscoralil/public_html/includes/login.php on line 27
+[30-Apr-2019 11:47:12 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/iscoralil/public_html/includes/login.php on line 30
+[30-Apr-2019 12:25:02 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/iscoralil/public_html/includes/login.php on line 27
+[30-Apr-2019 12:25:02 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/iscoralil/public_html/includes/login.php on line 30
+[30-Apr-2019 12:26:02 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/iscoralil/public_html/includes/login.php on line 27
+[30-Apr-2019 12:26:02 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/iscoralil/public_html/includes/login.php on line 30
+[30-Apr-2019 12:32:22 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/iscoralil/public_html/includes/login.php on line 27
+[30-Apr-2019 12:32:22 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/iscoralil/public_html/includes/login.php on line 30
+[30-Apr-2019 12:47:28 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/iscoralil/public_html/includes/login.php on line 76
+[30-Apr-2019 12:47:30 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/iscoralil/public_html/includes/login.php on line 76
+[30-Apr-2019 12:48:02 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/iscoralil/public_html/includes/login.php on line 73
+[30-Apr-2019 12:49:54 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/iscoralil/public_html/includes/login.php on line 76
+[30-Apr-2019 12:50:09 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/iscoralil/public_html/includes/login.php on line 27
+[30-Apr-2019 12:50:09 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/iscoralil/public_html/includes/login.php on line 30
+[30-Apr-2019 12:52:01 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/iscoralil/public_html/includes/login.php on line 90
+[30-Apr-2019 12:53:14 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/iscoralil/public_html/includes/login.php on line 78
+[30-Apr-2019 12:55:14 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/iscoralil/public_html/includes/login.php on line 76
+[30-Apr-2019 12:59:48 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/iscoralil/public_html/includes/login.php on line 76
+[30-Apr-2019 13:01:13 UTC] PHP Warning:  require_once(../classes/init.php): failed to open stream: No such file or directory in /home/iscoralil/public_html/includes/login.php on line 42
+[30-Apr-2019 13:01:13 UTC] PHP Fatal error:  require_once(): Failed opening required '../classes/init.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/iscoralil/public_html/includes/login.php on line 42
+[30-Apr-2019 13:29:18 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'iscoralil'@'localhost' to database 'ArtFriend' in /home/iscoralil/public_html/includes/config.php on line 7
+[30-Apr-2019 13:29:28 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'iscoralil'@'localhost' to database 'ArtFriend' in /home/iscoralil/public_html/includes/config.php on line 7
+[30-Apr-2019 13:33:14 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'iscoralil'@'localhost' to database 'ArtFriend' in /home/iscoralil/public_html/includes/config.php on line 7
+[30-Apr-2019 13:45:29 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'iscoralil'@'localhost' to database 'ArtFriend' in /home/iscoralil/public_html/includes/config.php on line 7
+[30-Apr-2019 13:45:48 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'iscoralil'@'localhost' to database 'ArtFriend' in /home/iscoralil/public_html/includes/config.php on line 7
+[30-Apr-2019 14:44:10 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'iscoralil'@'localhost' to database 'ArtFriend' in /home/iscoralil/public_html/includes/config.php on line 7
+[30-Apr-2019 14:45:45 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'iscoralil'@'localhost' to database 'ArtFriend' in /home/iscoralil/public_html/includes/config.php on line 7
+[30-Apr-2019 14:47:11 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'iscoralil'@'localhost' to database 'ArtFriend' in /home/iscoralil/public_html/includes/config.php on line 7
+[30-Apr-2019 16:37:18 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'iscoralil'@'localhost' to database 'ArtFriend' in /home/iscoralil/public_html/includes/config.php on line 7
+[30-Apr-2019 16:38:36 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'iscoralil'@'localhost' to database 'ArtFriend' in /home/iscoralil/public_html/includes/config.php on line 7
+[30-Apr-2019 17:03:46 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'iscoralil'@'localhost' to database 'ArtFriend' in /home/iscoralil/public_html/includes/config.php on line 7
+[30-Apr-2019 17:04:05 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'iscoralil'@'localhost' to database 'ArtFriend' in /home/iscoralil/public_html/includes/config.php on line 7
+[30-Apr-2019 17:04:14 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'iscoralil'@'localhost' to database 'ArtFriend' in /home/iscoralil/public_html/includes/config.php on line 7
+[30-Apr-2019 17:09:55 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'iscoralil'@'localhost' to database 'ArtFriend' in /home/iscoralil/public_html/includes/config.php on line 7
+[30-Apr-2019 17:28:54 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'iscoralil'@'localhost' to database 'ArtFriend' in /home/iscoralil/public_html/includes/config.php on line 7
+[30-Apr-2019 17:29:19 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'iscoralil'@'localhost' to database 'ArtFriend' in /home/iscoralil/public_html/includes/config.php on line 7
+[30-Apr-2019 17:29:30 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'iscoralil'@'localhost' to database 'ArtFriend' in /home/iscoralil/public_html/includes/config.php on line 7
+[30-Apr-2019 17:29:39 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'iscoralil'@'localhost' to database 'ArtFriend' in /home/iscoralil/public_html/includes/config.php on line 7
+[30-Apr-2019 17:29:58 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'iscoralil'@'localhost' to database 'ArtFriend' in /home/iscoralil/public_html/includes/config.php on line 7
+[30-Apr-2019 17:30:13 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'iscoralil'@'localhost' to database 'ArtFriend' in /home/iscoralil/public_html/includes/config.php on line 7
+[30-Apr-2019 17:31:29 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'iscoralil'@'localhost' to database 'ArtFriend' in /home/iscoralil/public_html/includes/config.php on line 7
+[30-Apr-2019 17:31:41 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'iscoralil'@'localhost' to database 'ArtFriend' in /home/iscoralil/public_html/includes/config.php on line 7
+[30-Apr-2019 17:32:20 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'iscoralil'@'localhost' to database 'ArtFriend' in /home/iscoralil/public_html/includes/config.php on line 7
+[30-Apr-2019 17:42:13 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'iscoralil'@'localhost' to database 'ArtFriend' in /home/iscoralil/public_html/includes/config.php on line 7
+[30-Apr-2019 17:43:59 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'iscoralil'@'localhost' to database 'ArtFriend' in /home/iscoralil/public_html/includes/config.php on line 7
+[30-Apr-2019 17:44:13 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'iscoralil'@'localhost' to database 'ArtFriend' in /home/iscoralil/public_html/includes/config.php on line 7
+[30-Apr-2019 17:45:17 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'iscoralil'@'localhost' to database 'ArtFriend' in /home/iscoralil/public_html/includes/config.php on line 7
+[30-Apr-2019 17:46:43 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'iscoralil'@'localhost' to database 'ArtFriend' in /home/iscoralil/public_html/includes/config.php on line 7
+[30-Apr-2019 17:50:43 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'iscoralil'@'localhost' to database 'ArtFriend' in /home/iscoralil/public_html/includes/config.php on line 7
+[30-Apr-2019 17:50:56 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'iscoralil'@'localhost' to database 'ArtFriend' in /home/iscoralil/public_html/includes/config.php on line 7
+[30-Apr-2019 17:51:04 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'iscoralil'@'localhost' to database 'ArtFriend' in /home/iscoralil/public_html/includes/config.php on line 7
+[30-Apr-2019 17:51:40 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'iscoralil'@'localhost' to database 'ArtFriend' in /home/iscoralil/public_html/includes/config.php on line 7
+[30-Apr-2019 17:52:55 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'iscoralil'@'localhost' to database 'ArtFriend' in /home/iscoralil/public_html/includes/config.php on line 7
+[30-Apr-2019 17:53:05 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'iscoralil'@'localhost' to database 'ArtFriend' in /home/iscoralil/public_html/includes/config.php on line 7
+[30-Apr-2019 17:53:17 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'iscoralil'@'localhost' to database 'ArtFriend' in /home/iscoralil/public_html/includes/config.php on line 7
+[30-Apr-2019 17:53:22 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'iscoralil'@'localhost' to database 'ArtFriend' in /home/iscoralil/public_html/includes/config.php on line 7
+[30-Apr-2019 17:54:15 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'iscoralil'@'localhost' to database 'ArtFriend' in /home/iscoralil/public_html/includes/config.php on line 7
+[30-Apr-2019 17:54:27 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'iscoralil'@'localhost' to database 'ArtFriend' in /home/iscoralil/public_html/includes/config.php on line 7
+[30-Apr-2019 17:54:57 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'iscoralil'@'localhost' to database 'ArtFriend' in /home/iscoralil/public_html/includes/config.php on line 7
+[30-Apr-2019 18:00:50 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'iscoralil'@'localhost' to database 'ArtFriend' in /home/iscoralil/public_html/includes/config.php on line 7
+[30-Apr-2019 18:05:39 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:05:39 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:05:39 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:05:39 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:05:39 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:05:39 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:05:40 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:05:40 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:05:40 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:05:40 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:05:40 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:05:40 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:05:40 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:05:40 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:05:40 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:05:40 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:05:41 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:05:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:05:41 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:05:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:05:41 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:05:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:05:41 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:05:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:05:41 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:05:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:05:42 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:05:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:05:42 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:05:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:05:42 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:05:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:05:42 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:05:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:05:42 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:05:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:05:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:05:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:05:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:05:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:05:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:05:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:05:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:05:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:05:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:05:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:05:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:05:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:05:44 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:05:44 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:05:44 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:05:44 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:05:44 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:05:44 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:05:44 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:05:44 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:05:44 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:05:44 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:05:44 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:05:44 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:05:45 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:05:45 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:05:45 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:05:45 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:05:45 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:05:45 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:05:45 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:05:45 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:05:45 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:05:45 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:05:46 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:05:46 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:05:46 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:05:46 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:05:46 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:05:46 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:05:46 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:05:46 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:05:47 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:05:47 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:05:47 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:05:47 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:05:47 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:05:47 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:05:47 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:05:47 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:05:47 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:05:47 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:05:47 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:05:47 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:05:48 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:05:48 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:05:48 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:05:48 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:05:48 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:05:48 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:05:48 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:05:48 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:05:48 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:05:48 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:05:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:05:49 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:05:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:05:49 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:05:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:05:49 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:05:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:05:49 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:05:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:05:49 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:05:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:05:49 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:05:50 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:05:50 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:05:50 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:05:50 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:05:50 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:05:50 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:05:50 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:05:50 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:05:50 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:05:50 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:05:50 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:05:50 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:05:51 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:05:51 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:05:51 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:05:51 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:05:51 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:05:51 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:05:51 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:05:51 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:05:51 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:05:51 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:05:52 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:05:52 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:05:52 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:05:52 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:05:52 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:05:52 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:05:52 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:05:52 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:05:52 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:05:52 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:05:52 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:05:52 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:05:53 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:05:53 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:05:58 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:05:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:05:58 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:05:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:05:58 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:05:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:05:58 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:05:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:05:59 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:05:59 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:05:59 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:05:59 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:05:59 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:05:59 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:05:59 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:05:59 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:05:59 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:05:59 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:06:00 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:06:00 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:06:00 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:06:00 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:06:00 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:06:00 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:06:00 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:06:00 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:06:00 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:06:00 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:06:01 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:06:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:06:01 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:06:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:06:01 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:06:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:06:01 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:06:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:06:01 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:06:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:06:02 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:06:02 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:06:07 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:06:07 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:06:07 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:06:07 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:06:07 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:06:07 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:06:07 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:06:07 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:06:07 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:06:07 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:06:08 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:06:08 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:06:08 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:06:08 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:06:08 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:06:08 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:06:08 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:06:08 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:06:08 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:06:08 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:06:09 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:06:09 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:06:09 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:06:09 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:06:09 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:06:09 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:06:09 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:06:09 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:06:09 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:06:09 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:06:09 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:06:09 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:06:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:06:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:06:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:06:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:06:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:06:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:06:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:06:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:06:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:06:19 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:06:20 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:06:20 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:06:20 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:06:20 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:06:20 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:06:20 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:06:20 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:06:20 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:06:20 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:06:20 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:06:21 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:06:21 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:06:21 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:06:21 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:06:21 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:06:21 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:06:21 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:06:21 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:06:22 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:06:22 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:06:22 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:06:22 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:06:22 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:06:22 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:06:22 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:06:22 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:06:22 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:06:22 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:06:22 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:06:22 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:06:23 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:06:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:06:23 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:06:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:06:23 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:06:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:06:23 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:06:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:06:23 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:06:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:06:37 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'iscoralil'@'localhost' to database 'ArtFriend' in /home/iscoralil/public_html/includes/config.php on line 7
+[30-Apr-2019 18:06:40 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'iscoralil'@'localhost' to database 'ArtFriend' in /home/iscoralil/public_html/includes/config.php on line 7
+[30-Apr-2019 18:11:22 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'iscoralil'@'localhost' to database 'ArtFriend' in /home/iscoralil/public_html/includes/config.php on line 7
+[30-Apr-2019 18:12:22 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:12:22 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:12:22 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:12:22 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:12:23 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:12:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:12:23 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:12:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:12:23 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:12:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:12:23 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:12:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:12:23 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:12:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:12:24 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:12:24 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:12:24 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:12:24 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:12:24 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:12:24 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:12:24 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:12:24 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:12:24 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:12:24 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:12:25 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:12:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:12:25 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:12:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:12:25 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:12:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:12:25 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:12:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:12:25 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:12:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:12:26 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:12:26 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:12:26 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:12:26 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:12:26 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:12:26 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:12:26 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 18:12:26 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 18:13:45 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'iscoralil'@'localhost' to database 'ArtFriend' in /home/iscoralil/public_html/includes/config.php on line 7
+[30-Apr-2019 18:20:32 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'iscoralil'@'localhost' to database 'ArtFriend' in /home/iscoralil/public_html/includes/config.php on line 7
+[30-Apr-2019 18:20:40 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'iscoralil'@'localhost' to database 'ArtFriend' in /home/iscoralil/public_html/includes/config.php on line 7
+[30-Apr-2019 18:21:05 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'iscoralil'@'localhost' to database 'ArtFriend' in /home/iscoralil/public_html/includes/config.php on line 7
+[30-Apr-2019 18:21:11 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'iscoralil'@'localhost' to database 'ArtFriend' in /home/iscoralil/public_html/includes/config.php on line 7
+[30-Apr-2019 18:21:19 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'iscoralil'@'localhost' to database 'ArtFriend' in /home/iscoralil/public_html/includes/config.php on line 7
+[30-Apr-2019 18:21:20 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'iscoralil'@'localhost' to database 'ArtFriend' in /home/iscoralil/public_html/includes/config.php on line 7
+[30-Apr-2019 18:43:18 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'iscoralil'@'localhost' to database 'ArtFriend' in /home/iscoralil/public_html/includes/config.php on line 7
+[30-Apr-2019 18:43:23 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'iscoralil'@'localhost' to database 'ArtFriend' in /home/iscoralil/public_html/includes/config.php on line 7
+[30-Apr-2019 18:43:32 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'iscoralil'@'localhost' to database 'ArtFriend' in /home/iscoralil/public_html/includes/config.php on line 7
+[30-Apr-2019 18:48:42 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'iscoralil'@'localhost' to database 'ArtFriend' in /home/iscoralil/public_html/includes/config.php on line 7
+[30-Apr-2019 18:52:44 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'iscoralil'@'localhost' to database 'ArtFriend' in /home/iscoralil/public_html/includes/config.php on line 7
+[30-Apr-2019 18:56:19 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'iscoralil'@'localhost' to database 'ArtFriend' in /home/iscoralil/public_html/includes/config.php on line 7
+[30-Apr-2019 18:58:58 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'iscoralil'@'localhost' to database 'ArtFriend' in /home/iscoralil/public_html/includes/config.php on line 7
+[30-Apr-2019 18:59:14 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'iscoralil'@'localhost' to database 'ArtFriend' in /home/iscoralil/public_html/includes/config.php on line 7
+[30-Apr-2019 19:00:16 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'iscoralil'@'localhost' to database 'ArtFriend' in /home/iscoralil/public_html/includes/config.php on line 7
+[30-Apr-2019 19:00:17 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'iscoralil'@'localhost' to database 'ArtFriend' in /home/iscoralil/public_html/includes/config.php on line 7
+[30-Apr-2019 19:00:45 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'iscoralil'@'localhost' to database 'ArtFriend' in /home/iscoralil/public_html/includes/config.php on line 7
+[30-Apr-2019 19:00:52 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'iscoralil'@'localhost' to database 'ArtFriend' in /home/iscoralil/public_html/includes/config.php on line 7
+[30-Apr-2019 19:09:22 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'iscoralil'@'localhost' to database 'ArtFriend' in /home/iscoralil/public_html/includes/config.php on line 7
+[30-Apr-2019 19:09:28 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'iscoralil'@'localhost' to database 'ArtFriend' in /home/iscoralil/public_html/includes/config.php on line 7
+[30-Apr-2019 19:11:00 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'iscoralil'@'localhost' to database 'ArtFriend' in /home/iscoralil/public_html/includes/config.php on line 7
+[30-Apr-2019 19:30:46 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'iscoralil'@'localhost' to database 'ArtFriend' in /home/iscoralil/public_html/includes/config.php on line 7
+[30-Apr-2019 19:30:53 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'iscoralil'@'localhost' to database 'ArtFriend' in /home/iscoralil/public_html/includes/config.php on line 7
+[30-Apr-2019 19:31:08 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'iscoralil'@'localhost' to database 'ArtFriend' in /home/iscoralil/public_html/includes/config.php on line 7
+[30-Apr-2019 19:33:14 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iscoralil/public_html/includes/login.php on line 82
+[30-Apr-2019 19:41:12 UTC] 0
+[30-Apr-2019 19:43:28 UTC] bla bla
+[30-Apr-2019 19:45:54 UTC] result!=1
+[30-Apr-2019 19:48:52 UTC] result!=1
+[30-Apr-2019 19:49:06 UTC] result!=1
+[30-Apr-2019 19:51:24 UTC] PHP Warning:  error_log() expects parameter 1 to be string, object given in /home/iscoralil/public_html/includes/login.php on line 71
+[30-Apr-2019 19:51:24 UTC] result=1
+[30-Apr-2019 19:51:24 UTC] PHP Fatal error:  Call to undefined function session_register() in /home/iscoralil/public_html/includes/login.php on line 74
+[30-Apr-2019 19:52:10 UTC] 1
+[30-Apr-2019 19:52:10 UTC] result=1
+[30-Apr-2019 19:52:10 UTC] PHP Fatal error:  Call to undefined function session_register() in /home/iscoralil/public_html/includes/login.php on line 74
+[30-Apr-2019 19:52:45 UTC] result!=1
+[30-Apr-2019 19:52:52 UTC] 1
+[30-Apr-2019 19:52:52 UTC] result=1
+[30-Apr-2019 19:52:52 UTC] PHP Fatal error:  Call to undefined function session_register() in /home/iscoralil/public_html/includes/login.php on line 74
+[30-Apr-2019 20:02:42 UTC] 1
+[30-Apr-2019 20:02:42 UTC] result=1
+[30-Apr-2019 20:03:03 UTC] 1
+[30-Apr-2019 20:03:03 UTC] result=1
+[30-Apr-2019 20:04:43 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'iscoralil'@'localhost' to database 'ArtFriend' in /home/iscoralil/public_html/includes/config.php on line 7
+[30-Apr-2019 20:04:52 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'iscoralil'@'localhost' to database 'ArtFriend' in /home/iscoralil/public_html/includes/config.php on line 7
+[30-Apr-2019 20:05:09 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'iscoralil'@'localhost' to database 'ArtFriend' in /home/iscoralil/public_html/includes/config.php on line 7
+[30-Apr-2019 20:05:34 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/iscoralil/public_html/includes/login.php on line 61
+[30-Apr-2019 20:05:42 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/iscoralil/public_html/includes/login.php on line 61
+[30-Apr-2019 20:06:04 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'iscoralil'@'localhost' to database 'ArtFriend' in /home/iscoralil/public_html/includes/config.php on line 7
+[30-Apr-2019 20:07:06 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'iscoralil'@'localhost' to database 'ArtFriend' in /home/iscoralil/public_html/includes/config.php on line 7
+[30-Apr-2019 20:07:48 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 20:07:48 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 20:07:48 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 20:07:48 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 20:07:48 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 20:07:48 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 20:07:48 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 20:07:48 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 20:07:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 20:07:49 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 20:07:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 20:07:49 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 20:07:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 20:07:49 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 20:07:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 20:07:49 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 20:07:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 20:07:49 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 20:07:50 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 20:07:50 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 20:07:50 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 20:07:50 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 20:07:50 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 20:07:50 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 20:07:50 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 20:07:50 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 20:07:50 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 20:07:50 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 20:07:50 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 20:07:50 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 20:07:51 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 20:07:51 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 20:07:51 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 20:07:51 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 20:07:51 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 20:07:51 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 20:07:51 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 20:07:51 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 20:07:51 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 20:07:51 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 20:07:52 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/iscoralil/public_html/includes/session.php on line 7
+[30-Apr-2019 20:07:52 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/session.php on line 9
+[30-Apr-2019 20:09:42 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'iscoralil'@'localhost' to database 'ArtFriend' in /home/iscoralil/public_html/includes/config.php on line 7
+[30-Apr-2019 20:10:16 UTC] before session start
+[30-Apr-2019 20:10:16 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iscoralil/public_html/includes/login.php on line 83
+[30-Apr-2019 20:11:34 UTC] before session start
+[30-Apr-2019 20:11:46 UTC] before session start
+[30-Apr-2019 20:12:51 UTC] before session start
+[30-Apr-2019 20:12:57 UTC] before session start
+[30-Apr-2019 20:13:04 UTC] before session start
+[30-Apr-2019 20:14:24 UTC] before session start
+[30-Apr-2019 20:15:09 UTC] result!=1
+[30-Apr-2019 20:15:20 UTC] result!=1
+[30-Apr-2019 20:19:12 UTC] result!=1
+[30-Apr-2019 20:19:12 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iscoralil/public_html/includes/login.php on line 83
+[30-Apr-2019 20:20:20 UTC] result!=1
+[30-Apr-2019 20:20:20 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iscoralil/public_html/includes/login.php on line 83
+[30-Apr-2019 20:27:18 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/iscoralil/public_html/includes/login.php on line 70
+[30-Apr-2019 20:27:18 UTC] 0
+[30-Apr-2019 20:27:18 UTC] result!=1
+[30-Apr-2019 20:27:18 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iscoralil/public_html/includes/login.php on line 83
+[30-Apr-2019 20:27:56 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/iscoralil/public_html/includes/login.php on line 70
+[30-Apr-2019 20:27:56 UTC] 0
+[30-Apr-2019 20:27:56 UTC] result!=1
+[30-Apr-2019 20:27:56 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iscoralil/public_html/includes/login.php on line 83
+[30-Apr-2019 20:48:45 UTC] 0
+[30-Apr-2019 20:48:45 UTC] result!=1
+[30-Apr-2019 20:48:45 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iscoralil/public_html/includes/login.php on line 83
+[30-Apr-2019 20:49:54 UTC] 0
+[30-Apr-2019 20:49:54 UTC] 0
+[30-Apr-2019 20:49:54 UTC] result!=1
+[30-Apr-2019 20:49:54 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iscoralil/public_html/includes/login.php on line 83
+[30-Apr-2019 20:50:10 UTC] 0
+[30-Apr-2019 20:50:10 UTC] 0
+[30-Apr-2019 20:50:10 UTC] result!=1
+[30-Apr-2019 20:50:10 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iscoralil/public_html/includes/login.php on line 83
+[30-Apr-2019 20:50:34 UTC] 0
+[30-Apr-2019 20:50:34 UTC] 0
+[30-Apr-2019 20:50:34 UTC] result!=1
+[30-Apr-2019 20:50:34 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iscoralil/public_html/includes/login.php on line 83
+[30-Apr-2019 20:50:57 UTC] 0
+[30-Apr-2019 20:50:57 UTC] bla bka
+[30-Apr-2019 20:50:57 UTC] 0
+[30-Apr-2019 20:50:57 UTC] result!=1
+[30-Apr-2019 20:50:57 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iscoralil/public_html/includes/login.php on line 84
+[30-Apr-2019 20:52:08 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/iscoralil/public_html/includes/login.php on line 71
+[30-Apr-2019 20:52:33 UTC] bla bka
+[30-Apr-2019 20:52:33 UTC] 3
+[30-Apr-2019 20:52:33 UTC] result!=1
+[30-Apr-2019 20:52:33 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iscoralil/public_html/includes/login.php on line 85
+[30-Apr-2019 20:53:09 UTC] bla bka
+[30-Apr-2019 20:53:09 UTC] sql query
+[30-Apr-2019 20:53:09 UTC] result!=1
+[30-Apr-2019 20:53:09 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iscoralil/public_html/includes/login.php on line 86
+[30-Apr-2019 20:53:38 UTC] maor
+[30-Apr-2019 20:53:38 UTC] sql query
+[30-Apr-2019 20:53:38 UTC] result!=1
+[30-Apr-2019 20:53:38 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iscoralil/public_html/includes/login.php on line 86
+[30-Apr-2019 20:54:22 UTC] 0
+[30-Apr-2019 20:54:22 UTC] sql query
+[30-Apr-2019 20:54:22 UTC] result!=1
+[30-Apr-2019 20:54:22 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iscoralil/public_html/includes/login.php on line 86
+[30-Apr-2019 20:55:45 UTC] apr may
+[30-Apr-2019 20:55:45 UTC] select name from user where email='ma' AND password='b74df323e3939b563635a2cba7a7afba'
+[30-Apr-2019 20:55:45 UTC] result==1
+[30-Apr-2019 20:55:45 UTC] PHP Fatal error:  Call to undefined function session_register() in /home/iscoralil/public_html/includes/login.php on line 75
+[30-Apr-2019 20:56:56 UTC] select name from user where email='m' AND password='0cc175b9c0f1b6a831c399e269772661'
+[30-Apr-2019 20:56:56 UTC] result==1
+[30-Apr-2019 20:57:50 UTC] select name from user where email='a' AND password='0cc175b9c0f1b6a831c399e269772661'
+[30-Apr-2019 20:57:58 UTC] select name from user where email='maor@maor.com' AND password='81dc9bdb52d04dc20036dbd8313ed055'
+[30-Apr-2019 20:58:28 UTC] select name from user where email='maor@maor.com' AND password='81dc9bdb52d04dc20036dbd8313ed055'
+[30-Apr-2019 20:59:32 UTC] select name from user where email='sdkjslkj' AND password='e538fff3051736eaca89b6596d3309f9'
+[30-Apr-2019 21:00:30 UTC] select name from user where email='maor@mao.com' AND password='b3ddbc502e307665f346cbd6e52cc10d'
+[30-Apr-2019 21:00:40 UTC] select name from user where email='maor@mao.com' AND password='4297f44b13955235245b2497399d7a93'
+[30-Apr-2019 21:01:49 UTC] select name from user where email='sdsd' AND password='2c789e34dc81d79feba6a005ad63902b'
+[30-Apr-2019 21:01:56 UTC] select name from user where email='maor@maor.com' AND password='81dc9bdb52d04dc20036dbd8313ed055'
+[30-Apr-2019 21:02:12 UTC] select name from user where email='maurizio@gmail.com' AND password='c51ce410c124a10e0db5e4b97fc2af39'
+[30-Apr-2019 21:02:20 UTC] select name from user where email='maurizio@gmail.com' AND password='827ccb0eea8a706c4c34a16891f84e7b'
+[30-Apr-2019 22:02:34 UTC] select name from user where email='maor.elias.91@gmail.com' AND password='11ddbaf3386aea1f2974eee984542152'
+[30-Apr-2019 22:02:49 UTC] select name from user where email='maor@maor.com' AND password='81dc9bdb52d04dc20036dbd8313ed055'
+[01-May-2019 10:07:45 UTC] select name from user where email='coral.iluz@gmail.com' AND password='81dc9bdb52d04dc20036dbd8313ed055'
+[01-May-2019 10:09:15 UTC] select name from user where email='coral.iluz@gmail.com' AND password='81dc9bdb52d04dc20036dbd8313ed055'
+[02-May-2019 07:50:09 UTC] select name from user where email='coral.iluz@gmail.com' AND password='81dc9bdb52d04dc20036dbd8313ed055'
+[02-May-2019 09:20:48 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/iscoralil/public_html/includes/registration.php on line 27
+[02-May-2019 09:21:15 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/iscoralil/public_html/includes/registration.php on line 27
+[02-May-2019 09:21:18 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/iscoralil/public_html/includes/registration.php on line 27
+[02-May-2019 09:21:39 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/iscoralil/public_html/includes/registration.php on line 94
+[03-May-2019 07:20:07 UTC] PHP Warning:  require_once(google-api-php-client/Google_Client.php): failed to open stream: No such file or directory in /home/iscoralil/public_html/includes/login.php on line 44
+[03-May-2019 07:20:07 UTC] PHP Fatal error:  require_once(): Failed opening required 'google-api-php-client/Google_Client.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/iscoralil/public_html/includes/login.php on line 44
+[03-May-2019 07:20:37 UTC] PHP Warning:  require_once(google-api-php-client/Google_Client.php): failed to open stream: No such file or directory in /home/iscoralil/public_html/includes/login.php on line 44
+[03-May-2019 07:20:37 UTC] PHP Fatal error:  require_once(): Failed opening required 'google-api-php-client/Google_Client.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/iscoralil/public_html/includes/login.php on line 44
+[03-May-2019 07:20:44 UTC] PHP Warning:  require_once(google-api-php-client/Google_Client.php): failed to open stream: No such file or directory in /home/iscoralil/public_html/includes/login.php on line 44
+[03-May-2019 07:20:44 UTC] PHP Fatal error:  require_once(): Failed opening required 'google-api-php-client/Google_Client.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/iscoralil/public_html/includes/login.php on line 44
+[03-May-2019 07:21:36 UTC] PHP Warning:  require_once(google-api-php-client/Google_Client.php): failed to open stream: No such file or directory in /home/iscoralil/public_html/includes/login.php on line 44
+[03-May-2019 07:21:36 UTC] PHP Fatal error:  require_once(): Failed opening required 'google-api-php-client/Google_Client.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/iscoralil/public_html/includes/login.php on line 44
+[03-May-2019 07:52:43 UTC] PHP Warning:  require_once(google-api-php-client/Google_Client.php): failed to open stream: No such file or directory in /home/iscoralil/public_html/includes/login.php on line 44
+[03-May-2019 07:52:43 UTC] PHP Fatal error:  require_once(): Failed opening required 'google-api-php-client/Google_Client.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/iscoralil/public_html/includes/login.php on line 44
+[03-May-2019 07:52:48 UTC] PHP Warning:  require_once(google-api-php-client/Google_Client.php): failed to open stream: No such file or directory in /home/iscoralil/public_html/includes/login.php on line 44
+[03-May-2019 07:52:48 UTC] PHP Fatal error:  require_once(): Failed opening required 'google-api-php-client/Google_Client.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/iscoralil/public_html/includes/login.php on line 44
+[03-May-2019 08:11:24 UTC] PHP Warning:  require_once(google-api-php-client/Google_Client.php): failed to open stream: No such file or directory in /home/iscoralil/public_html/includes/login.php on line 44
+[03-May-2019 08:11:24 UTC] PHP Fatal error:  require_once(): Failed opening required 'google-api-php-client/Google_Client.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/iscoralil/public_html/includes/login.php on line 44
+[03-May-2019 08:29:44 UTC] PHP Fatal error:  Call to a member function setAuthConfig() on null in /home/iscoralil/public_html/includes/login.php on line 78
+[03-May-2019 08:32:11 UTC] PHP Warning:  require_once(public_html/google-api-php-client/Client.php): failed to open stream: No such file or directory in /home/iscoralil/public_html/includes/login.php on line 44
+[03-May-2019 08:32:11 UTC] PHP Fatal error:  require_once(): Failed opening required 'public_html/google-api-php-client/Client.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/iscoralil/public_html/includes/login.php on line 44
+[03-May-2019 08:32:15 UTC] PHP Warning:  require_once(public_html/google-api-php-client/Client.php): failed to open stream: No such file or directory in /home/iscoralil/public_html/includes/login.php on line 44
+[03-May-2019 08:32:15 UTC] PHP Fatal error:  require_once(): Failed opening required 'public_html/google-api-php-client/Client.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/iscoralil/public_html/includes/login.php on line 44
+[03-May-2019 08:33:28 UTC] PHP Fatal error:  Class 'Google_Client' not found in /home/iscoralil/public_html/includes/login.php on line 76
+[03-May-2019 08:35:04 UTC] PHP Warning:  require_once(home/iscoralil/public_html/google-api-php-client/autoload.php): failed to open stream: No such file or directory in /home/iscoralil/public_html/includes/login.php on line 44
+[03-May-2019 08:35:04 UTC] PHP Fatal error:  require_once(): Failed opening required 'home/iscoralil/public_html/google-api-php-client/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/iscoralil/public_html/includes/login.php on line 44
+[03-May-2019 08:35:39 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'This library must be installed via composer or by downloading the full package. See the instructions at https://github.com/google/google-api-php-client#installation.' in /home/iscoralil/public_html/google-api-php-client/autoload.php:14
+Stack trace:
+#0 /home/iscoralil/public_html/includes/login.php(44): require_once()
+#1 {main}
+  thrown in /home/iscoralil/public_html/google-api-php-client/autoload.php on line 14
+[03-May-2019 08:57:15 UTC] PHP Warning:  require_once(vendor/autoload.php): failed to open stream: No such file or directory in /home/iscoralil/public_html/includes/login.php on line 44
+[03-May-2019 08:57:15 UTC] PHP Fatal error:  require_once(): Failed opening required 'vendor/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/iscoralil/public_html/includes/login.php on line 44
+[03-May-2019 08:58:00 UTC] PHP Fatal error:  Call to a member function setAuthConfig() on null in /home/iscoralil/public_html/includes/login.php on line 77
+[03-May-2019 08:58:30 UTC] PHP Fatal error:  Call to a member function setAuthConfig() on null in /home/iscoralil/public_html/includes/login.php on line 77
+[03-May-2019 09:00:10 UTC] PHP Fatal error:  Uncaught exception 'InvalidArgumentException' with message 'Invalid code' in /home/iscoralil/vendor/google/apiclient/src/Google/Client.php:178
+Stack trace:
+#0 /home/iscoralil/public_html/includes/login.php(80): Google_Client->fetchAccessTokenWithAuthCode(NULL)
+#1 {main}
+  thrown in /home/iscoralil/vendor/google/apiclient/src/Google/Client.php on line 178
+[03-May-2019 10:13:11 UTC] select name from user where email='maoresd' AND password='84d9cfc2f395ce883a41d7ffc1bbcf4e'
+[03-May-2019 10:13:21 UTC] select name from user where email='maor@maor.com' AND password='81dc9bdb52d04dc20036dbd8313ed055'
+[03-May-2019 11:32:44 UTC] select name from user where email='sfdsf' AND password='d926d7bb9ccf46fc04a61bd65d87b9b3'
+[03-May-2019 11:36:23 UTC] PHP Warning:  file_put_contents(uploads/img20190503113623.png): failed to open stream: No such file or directory in /home/iscoralil/public_html/includes/CanvasWithSave.php on line 314
+[03-May-2019 11:46:49 UTC] select name from user where email='maor@maor.com' AND password='81dc9bdb52d04dc20036dbd8313ed055'
+[03-May-2019 11:51:17 UTC] select name from user where email='maor@maor.com' AND password='81dc9bdb52d04dc20036dbd8313ed055'
+[12-May-2019 12:59:12 UTC] select name from user where email='iscoralil' AND password='d7995ef6cd05fcaa866f39230ff58861'
+[12-May-2019 13:16:02 UTC] select name from user where email='coral.iluz@gmail.com' AND password='81dc9bdb52d04dc20036dbd8313ed055'
+[29-May-2019 05:00:56 UTC] PHP Fatal error:  Call to undefined function validate() in /home/iscoralil/public_html/includes/registration.php on line 57
+[29-May-2019 05:02:24 UTC] PHP Warning:  mysql_real_escape_string(): Access denied for user ''@'localhost' (using password: NO) in /home/iscoralil/public_html/includes/registration.php on line 6
+[29-May-2019 05:02:24 UTC] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/iscoralil/public_html/includes/registration.php on line 6
+[29-May-2019 05:02:24 UTC] PHP Warning:  mysql_real_escape_string(): Access denied for user ''@'localhost' (using password: NO) in /home/iscoralil/public_html/includes/registration.php on line 7
+[29-May-2019 05:02:24 UTC] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/iscoralil/public_html/includes/registration.php on line 7
+[29-May-2019 05:02:24 UTC] PHP Warning:  mysql_real_escape_string(): Access denied for user ''@'localhost' (using password: NO) in /home/iscoralil/public_html/includes/registration.php on line 8
+[29-May-2019 05:02:24 UTC] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/iscoralil/public_html/includes/registration.php on line 8
+[29-May-2019 05:02:24 UTC] PHP Warning:  mysql_real_escape_string(): Access denied for user ''@'localhost' (using password: NO) in /home/iscoralil/public_html/includes/registration.php on line 9
+[29-May-2019 05:02:24 UTC] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/iscoralil/public_html/includes/registration.php on line 9
+[29-May-2019 05:05:08 UTC] PHP Warning:  mysql_real_escape_string(): Access denied for user ''@'localhost' (using password: NO) in /home/iscoralil/public_html/includes/registration.php on line 6
+[29-May-2019 05:05:08 UTC] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/iscoralil/public_html/includes/registration.php on line 6
+[29-May-2019 05:05:08 UTC] PHP Warning:  mysql_real_escape_string(): Access denied for user ''@'localhost' (using password: NO) in /home/iscoralil/public_html/includes/registration.php on line 7
+[29-May-2019 05:05:08 UTC] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/iscoralil/public_html/includes/registration.php on line 7
+[29-May-2019 05:05:08 UTC] PHP Warning:  mysql_real_escape_string(): Access denied for user ''@'localhost' (using password: NO) in /home/iscoralil/public_html/includes/registration.php on line 8
+[29-May-2019 05:05:08 UTC] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/iscoralil/public_html/includes/registration.php on line 8
+[29-May-2019 05:05:08 UTC] PHP Warning:  mysql_real_escape_string(): Access denied for user ''@'localhost' (using password: NO) in /home/iscoralil/public_html/includes/registration.php on line 9
+[29-May-2019 05:05:08 UTC] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/iscoralil/public_html/includes/registration.php on line 9
+[29-May-2019 05:15:51 UTC] PHP Warning:  mysql_real_escape_string(): Access denied for user ''@'localhost' (using password: NO) in /home/iscoralil/public_html/includes/registration.php on line 6
+[29-May-2019 05:15:51 UTC] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/iscoralil/public_html/includes/registration.php on line 6
+[29-May-2019 05:15:51 UTC] PHP Warning:  mysql_real_escape_string(): Access denied for user ''@'localhost' (using password: NO) in /home/iscoralil/public_html/includes/registration.php on line 7
+[29-May-2019 05:15:51 UTC] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/iscoralil/public_html/includes/registration.php on line 7
+[29-May-2019 05:15:51 UTC] PHP Warning:  mysql_real_escape_string(): Access denied for user ''@'localhost' (using password: NO) in /home/iscoralil/public_html/includes/registration.php on line 8
+[29-May-2019 05:15:51 UTC] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/iscoralil/public_html/includes/registration.php on line 8
+[29-May-2019 05:15:51 UTC] PHP Warning:  mysql_real_escape_string(): Access denied for user ''@'localhost' (using password: NO) in /home/iscoralil/public_html/includes/registration.php on line 9
+[29-May-2019 05:15:51 UTC] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/iscoralil/public_html/includes/registration.php on line 9
+[29-May-2019 05:24:23 UTC] PHP Warning:  mysql_real_escape_string(): Access denied for user ''@'localhost' (using password: NO) in /home/iscoralil/public_html/includes/registration.php on line 6
+[29-May-2019 05:24:23 UTC] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/iscoralil/public_html/includes/registration.php on line 6
+[29-May-2019 05:24:23 UTC] PHP Warning:  mysql_real_escape_string(): Access denied for user ''@'localhost' (using password: NO) in /home/iscoralil/public_html/includes/registration.php on line 7
+[29-May-2019 05:24:23 UTC] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/iscoralil/public_html/includes/registration.php on line 7
+[29-May-2019 05:24:23 UTC] PHP Warning:  mysql_real_escape_string(): Access denied for user ''@'localhost' (using password: NO) in /home/iscoralil/public_html/includes/registration.php on line 8
+[29-May-2019 05:24:23 UTC] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/iscoralil/public_html/includes/registration.php on line 8
+[29-May-2019 05:24:23 UTC] PHP Warning:  mysql_real_escape_string(): Access denied for user ''@'localhost' (using password: NO) in /home/iscoralil/public_html/includes/registration.php on line 9
+[29-May-2019 05:24:23 UTC] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/iscoralil/public_html/includes/registration.php on line 9
+[29-May-2019 05:29:38 UTC] PHP Warning:  mysql_real_escape_string(): Access denied for user ''@'localhost' (using password: NO) in /home/iscoralil/public_html/includes/registration.php on line 7
+[29-May-2019 05:29:38 UTC] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/iscoralil/public_html/includes/registration.php on line 7
+[29-May-2019 05:29:38 UTC] PHP Warning:  mysql_real_escape_string(): Access denied for user ''@'localhost' (using password: NO) in /home/iscoralil/public_html/includes/registration.php on line 8
+[29-May-2019 05:29:38 UTC] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/iscoralil/public_html/includes/registration.php on line 8
+[29-May-2019 05:29:38 UTC] PHP Warning:  mysql_real_escape_string(): Access denied for user ''@'localhost' (using password: NO) in /home/iscoralil/public_html/includes/registration.php on line 9
+[29-May-2019 05:29:38 UTC] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/iscoralil/public_html/includes/registration.php on line 9
+[29-May-2019 05:50:56 UTC] select name from user where email='test@test.com' AND password='81dc9bdb52d04dc20036dbd8313ed055'
+[29-May-2019 05:50:56 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iscoralil/public_html/includes/login.php on line 63
+[29-May-2019 06:36:47 UTC] select name from user where email='test@test.com' AND password='81dc9bdb52d04dc20036dbd8313ed055'
+[29-May-2019 06:36:47 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/iscoralil/public_html/includes/login.php on line 63
+[29-May-2019 06:37:47 UTC] select name from users where email='test@test.com' AND password='81dc9bdb52d04dc20036dbd8313ed055'
+[29-May-2019 06:37:47 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/iscoralil/public_html/includes/login.php on line 21
+[29-May-2019 06:37:47 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/login.php on line 22
+[29-May-2019 06:58:40 UTC] select name from users where email='gfgfg' AND password='6948905ec82700140afa38540ab7344d'
+[29-May-2019 06:58:40 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/iscoralil/public_html/includes/login.php on line 20
+[29-May-2019 06:58:40 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/iscoralil/public_html/includes/login.php on line 21
+[29-May-2019 07:03:27 UTC] select name from users where email='gfgfg' AND password='6948905ec82700140afa38540ab7344d'
+[29-May-2019 07:04:33 UTC] select name from users where email='test@test.com' AND password='81dc9bdb52d04dc20036dbd8313ed055'
+[29-May-2019 07:08:26 UTC] select name from users where email='test@test.com' AND password='81dc9bdb52d04dc20036dbd8313ed055'
+[29-May-2019 07:25:40 UTC] select name from users where email='dsd' AND password='82d5984c2a2ad4c62caf1dd073b1c91c'
+[29-May-2019 07:25:45 UTC] select name from users where email='dsd' AND password='82d5984c2a2ad4c62caf1dd073b1c91c'
+[29-May-2019 07:29:57 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/iscoralil/public_html/includes/registration.php on line 72
+[29-May-2019 07:55:04 UTC] select name from users where email='test2@gmail.co' AND password='81dc9bdb52d04dc20036dbd8313ed055'
+[29-May-2019 07:55:36 UTC] select name from users where email='test2@gmail.com' AND password='81dc9bdb52d04dc20036dbd8313ed055'
+[29-May-2019 08:59:05 UTC] select name from users where email='sk@mail.com' AND password='202cb962ac59075b964b07152d234b70'
+[29-May-2019 09:10:24 UTC] PHP Fatal error:  Cannot pass parameter 2 by reference in /home/iscoralil/public_html/includes/login.php on line 18
+[29-May-2019 09:32:58 UTC] PHP Fatal error:  Call to a member function query() on null in /home/iscoralil/public_html/includes/upload.php on line 21
+[29-May-2019 09:39:29 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/iscoralil/public_html/includes/upload.php on line 25
+[29-May-2019 09:41:27 UTC] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/iscoralil/public_html/includes/upload.php on line 21
+[29-May-2019 09:44:09 UTC] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/iscoralil/public_html/includes/upload.php on line 21
+[29-May-2019 10:02:55 UTC] PHP Fatal error:  Call to undefined method mysqli::errorInfo() in /home/iscoralil/public_html/includes/upload.php on line 30
+[29-May-2019 10:03:33 UTC] PHP Fatal error:  Call to undefined method mysqli_stmt::errorInfo() in /home/iscoralil/public_html/includes/upload.php on line 30
+[29-May-2019 10:22:33 UTC] PHP Fatal error:  Cannot pass parameter 3 by reference in /home/iscoralil/public_html/includes/upload.php on line 25
+[29-May-2019 23:43:04 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'iscoralil'@'localhost' (using password: YES) in /home/kynetuweb/public_html/art/includes/config.php on line 5
+[29-May-2019 23:44:38 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'iscoralil'@'localhost' (using password: YES) in /home/kynetuweb/public_html/art/includes/config.php on line 5
+[29-May-2019 23:44:45 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'iscoralil'@'localhost' (using password: YES) in /home/kynetuweb/public_html/art/includes/config.php on line 5
+[29-May-2019 23:45:41 America/Chicago] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'iscoralil'@'localhost' (using password: YES) in /home/kynetuweb/public_html/art/includes/db-config.php on line 6
+[29-May-2019 23:46:45 America/Chicago] PHP Warning:  require_once(../../vendor/autoload.php): failed to open stream: No such file or directory in /home/kynetuweb/public_html/art/includes/login.php on line 4
+[29-May-2019 23:46:45 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '../../vendor/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/kynetuweb/public_html/art/includes/login.php on line 4
+[30-May-2019 00:43:11 America/Chicago] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, string given in /home/kynetuweb/public_html/art/includes/assign-mentor.php on line 64
+[30-May-2019 00:44:47 America/Chicago] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, string given in /home/kynetuweb/public_html/art/includes/assign-mentor.php on line 64
+[30-May-2019 00:53:26 America/Chicago] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/kynetuweb/public_html/art/includes/assign-mentor.php on line 5
+[30-May-2019 00:55:18 America/Chicago] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/kynetuweb/public_html/art/includes/assign-mentor.php on line 5
+[30-May-2019 00:56:31 America/Chicago] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/kynetuweb/public_html/art/includes/assign-mentor.php on line 5
+[30-May-2019 01:00:56 America/Chicago] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/kynetuweb/public_html/art/includes/my-account.php on line 63
+[30-May-2019 01:01:04 America/Chicago] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/kynetuweb/public_html/art/includes/assign-mentor.php on line 5
+[30-May-2019 01:02:29 America/Chicago] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/kynetuweb/public_html/art/includes/my-account.php on line 63
+[30-May-2019 01:02:32 America/Chicago] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/kynetuweb/public_html/art/includes/my-account.php on line 63
+[30-May-2019 01:03:14 America/Chicago] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/kynetuweb/public_html/art/includes/my-account.php on line 63
+[30-May-2019 01:03:17 America/Chicago] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/kynetuweb/public_html/art/includes/my-account.php on line 63
+[30-May-2019 01:03:37 America/Chicago] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/kynetuweb/public_html/art/includes/assign-mentor.php on line 5
+[30-May-2019 01:05:05 America/Chicago] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/kynetuweb/public_html/art/includes/my-account.php on line 63
+[30-May-2019 01:05:06 America/Chicago] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/kynetuweb/public_html/art/includes/assign-mentor.php on line 5
+[30-May-2019 01:05:07 America/Chicago] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/kynetuweb/public_html/art/includes/my-account.php on line 63
+[30-May-2019 01:05:31 America/Chicago] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/kynetuweb/public_html/art/includes/assign-mentor.php on line 5
+[30-May-2019 01:05:53 America/Chicago] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/kynetuweb/public_html/art/includes/assign-mentor.php on line 5
+[30-May-2019 01:07:22 America/Chicago] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/kynetuweb/public_html/art/includes/assign-mentor.php on line 5
+[30-May-2019 01:07:52 America/Chicago] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/kynetuweb/public_html/art/includes/assign-mentor.php on line 5
+[30-May-2019 01:08:23 America/Chicago] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/kynetuweb/public_html/art/includes/assign-mentor.php on line 5
+[30-May-2019 01:08:23 America/Chicago] PHP Warning:  Illegal string offset 'name' in /home/kynetuweb/public_html/art/includes/assign-mentor.php on line 76
+[30-May-2019 01:09:07 America/Chicago] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/kynetuweb/public_html/art/includes/assign-mentor.php on line 5
+[30-May-2019 01:09:07 America/Chicago] PHP Warning:  Illegal string offset 'name' in /home/kynetuweb/public_html/art/includes/assign-mentor.php on line 76
+[30-May-2019 01:09:17 America/Chicago] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/kynetuweb/public_html/art/includes/assign-mentor.php on line 5
+[30-May-2019 01:11:09 America/Chicago] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/kynetuweb/public_html/art/includes/assign-mentor.php on line 5
+[30-May-2019 01:33:37 America/Chicago] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/kynetuweb/public_html/art/includes/my-account.php on line 63
+[30-May-2019 01:35:25 America/Chicago] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/kynetuweb/public_html/art/includes/my-account.php on line 63
+[30-May-2019 01:35:29 America/Chicago] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/kynetuweb/public_html/art/includes/my-account.php on line 63
+[30-May-2019 01:37:09 America/Chicago] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/kynetuweb/public_html/art/includes/my-account.php on line 63
+[30-May-2019 01:37:11 America/Chicago] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/kynetuweb/public_html/art/includes/my-account.php on line 63
+[30-May-2019 01:54:37 America/Chicago] PHP Fatal error:  Call to a member function close() on null in /home/kynetuweb/public_html/art/includes/assign-mentor.php on line 17
+[30-May-2019 02:40:04 America/Chicago] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/kynetuweb/public_html/art/includes/assign-mentor.php on line 88
+[30-May-2019 05:11:54 America/Chicago] PHP Parse error:  syntax error, unexpected '"', expecting ',' or ';' in /home/kynetuweb/public_html/art/includes/my-account.php on line 107
+[30-May-2019 05:47:25 America/Chicago] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/kynetuweb/public_html/art/includes/drawing-comment.php on line 69
+[30-May-2019 05:48:09 America/Chicago] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/kynetuweb/public_html/art/includes/drawing-comment.php on line 69
+[30-May-2019 05:51:44 America/Chicago] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/kynetuweb/public_html/art/includes/drawing-comment.php on line 69
+[30-May-2019 06:41:48 America/Chicago] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/kynetuweb/public_html/art/includes/my-account.php on line 70
+[30-May-2019 06:44:03 America/Chicago] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/kynetuweb/public_html/art/includes/my-account.php on line 70
+[30-May-2019 11:08:10 America/Chicago] PHP Warning:  require(../phpmailer/src/Exception.php): failed to open stream: No such file or directory in /home/kynetuweb/public_html/art/includes/drawing-comment.php on line 2
+[30-May-2019 11:08:10 America/Chicago] PHP Fatal error:  require(): Failed opening required '../phpmailer/src/Exception.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/kynetuweb/public_html/art/includes/drawing-comment.php on line 2
+[30-May-2019 11:08:51 America/Chicago] PHP Fatal error:  Class 'PHPMailer' not found in /home/kynetuweb/public_html/art/includes/drawing-comment.php on line 9
+[30-May-2019 11:11:00 America/Chicago] PHP Fatal error:  Class 'PHPMailer' not found in /home/kynetuweb/public_html/art/includes/drawing-comment.php on line 9
+[30-May-2019 11:11:19 America/Chicago] PHP Fatal error:  Class 'PHPMailer' not found in /home/kynetuweb/public_html/art/includes/drawing-comment.php on line 5
+[30-May-2019 11:11:57 America/Chicago] PHP Fatal error:  Class 'PHPMailer' not found in /home/kynetuweb/public_html/art/includes/drawing-comment.php on line 5
+[30-May-2019 11:28:45 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/kynetuweb/public_html/art/includes/drawing-comment.php on line 114
+[30-May-2019 11:44:10 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kynetuweb/public_html/art/includes/drawing-comment.php:26) in /home/kynetuweb/public_html/art/includes/drawing-comment.php on line 38
+[30-May-2019 12:00:33 America/Chicago] PHP Fatal error:  Call to a member function close() on null in /home/kynetuweb/public_html/art/includes/my-account.php on line 156
+[30-May-2019 13:00:31 America/Chicago] PHP Fatal error:  Class 'SMTP' not found in /home/kynetuweb/public_html/art/phpmailer/PHPMailer.php on line 1759
+[30-May-2019 13:01:27 America/Chicago] PHP Fatal error:  Cannot redeclare class Exception in /home/kynetuweb/public_html/art/phpmailer/Exception.php on line 39
+[30-May-2019 13:02:15 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kynetuweb/public_html/art/phpmailer/SMTP.php:254) in /home/kynetuweb/public_html/art/includes/drawing-comment.php on line 36
