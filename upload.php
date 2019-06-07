@@ -1,16 +1,30 @@
 <?php 
+require_once 'phpmailer/Exception.php';
+require_once 'phpmailer/PHPMailer.php';
+require_once 'phpmailer/SMTP.php';
+require_once 'mail-conf.php';
 require_once "db-config.php";
 require_once "session.php";
 
 $statusMsg = '';
-
+$mentor = false;
 // File upload path
 $targetDir = ARTFUPLOADPATH;
-
 $targetUrl = ARTFUPLOADURL;
 
-
-
+$stmt = $mysqli->prepare("SELECT matchings.mentor_id, users.email, users.name from  matchings INNER JOIN users ON users.id=matchings.mentor_id WHERE painter_id = ?");
+$stmt->bind_param("i", $_SESSION['id']);
+$stmt->execute();
+$stmt->execute();
+$stmt->store_result();
+ if($stmt->num_rows === 0) {
+    $mentor = false;
+ } else {
+    $stmt->bind_result($mentor_id, $mentor_email, $mentor_name);
+    $stmt->fetch();
+    $mentor = true;
+ }
+ 
 if(isset($_POST["submit"]) && !empty($_FILES["file"]["name"])){
    
     $filename       = basename($_FILES["file"]["name"]);
@@ -25,37 +39,45 @@ if(isset($_POST["submit"]) && !empty($_FILES["file"]["name"])){
     };
     $targetFilePath =  $targetDir . $fileName;
     $targetFileUrl =  $targetUrl . $fileName;
-   
-    
 // Allow certain file formats
     $allowTypes = array('jpg','png','jpeg','pdf');
     if(in_array($fileType, $allowTypes)){
 // Upload file to server
-    if(move_uploaded_file($_FILES["file"]["tmp_name"], $targetFilePath)){
-       
-        $stmt = $mysqli->prepare("INSERT INTO drawings (file_path, user_id, created_at) VALUES (?, ?, NOW())");
-        
-             $stmt->bind_param("si", $targetFileUrl, $_SESSION['id']);
+        if(move_uploaded_file($_FILES["file"]["tmp_name"], $targetFilePath)){
+           
+                 $stmt = $mysqli->prepare("INSERT INTO drawings (file_path, user_id, created_at) VALUES (?, ?, NOW())");
             
-    if($stmt->execute()){
-        $_SESSION['message'] = "The file ".$fileName. " has been uploaded successfully.";
-       
-        $stmt->close();
-        header("location:upload.php");
-    }else{
-      //  print_r($stmt->errorInfo());
-         $_SESSION['message'] = "File upload failed, please try again.";
-        header("location:upload.php");
-    } 
-    }else{
-         $_SESSION['message'] = "Sorry, there was an error uploading your file.";
-        header("location:upload.php");
+                 $stmt->bind_param("si", $targetFileUrl, $_SESSION['id']);
+                
+            if($stmt->execute()){
+                $_SESSION['message'] = "The file ".$fileName. " has been uploaded successfully.";
+               
+                if($mentor){
+                        try {
+                        $mail->addAddress($mentor_email, $mentor_name);                                
+                        $mail->Subject = 'New Painting !';
+                        $mail->Body    = 'A Painter has just uploaded a new Drawing!!';
+                        $mail->send();
+                        } catch (Exception $e) {
+                            echo "<br><br><br><br><br><br><br>Message could not be sent. Mailer Error: {$mail->ErrorInfo}";
+                        }
+                }
+                 $stmt->close();
+                header("location:upload.php");
+            }else{
+              //  print_r($stmt->errorInfo());
+                 $_SESSION['message'] = "File upload failed, please try again.";
+                header("location:upload.php");
+            } 
+        }else{
+             $_SESSION['message'] = "Sorry, there was an error uploading your file.";
+            header("location:upload.php");
         }
     }else{
         $_SESSION['message'] = 'Sorry, only JPG, JPEG, PNG, GIF, & PDF files are allowed to upload.';
         header("location:upload.php");
     }
-    }
+}
 
 
 // Display status message
@@ -392,3 +414,5 @@ $('.image-upload-wrap').bind('dragover', function () {
 		$('.image-upload-wrap').removeClass('image-dropping');
 });
 </script>
+
+<script class="jsbin" src="https://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
